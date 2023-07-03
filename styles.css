@@ -64,6 +64,17 @@ body {
     padding: 20px;
     border-radius: 5px;
     color: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .blockLong {
+    width: 75%;
+    padding: 20px;
+    border-radius: 5px;
+    color: #333;
+    text-align: center;
   }
   
   .block1 {
